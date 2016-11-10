@@ -1,0 +1,59 @@
+﻿{"frames": {
+
+"winnicki-jump0000":
+{
+	"frame": {"x":0,"y":0,"w":152,"h":441},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":0,"w":255,"h":449},
+	"sourceSize": {"w":255,"h":449}
+},
+"winnicki-jump0001":
+{
+	"frame": {"x":152,"y":0,"w":178,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":26,"w":255,"h":449},
+	"sourceSize": {"w":255,"h":449}
+},
+"winnicki-jump0002":
+{
+	"frame": {"x":330,"y":0,"w":227,"h":395},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":52,"w":255,"h":449},
+	"sourceSize": {"w":255,"h":449}
+},
+"winnicki-jump0003":
+{
+	"frame": {"x":557,"y":0,"w":255,"h":371},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":78,"w":255,"h":449},
+	"sourceSize": {"w":255,"h":449}
+},
+"winnicki-jump0004":
+{
+	"frame": {"x":0,"y":441,"w":220,"h":424},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":255,"h":449},
+	"sourceSize": {"w":255,"h":449}
+},
+"winnicki-jump0005":
+{
+	"frame": {"x":220,"y":441,"w":151,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":0,"w":255,"h":449},
+	"sourceSize": {"w":255,"h":449}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.1.13",
+	"image": "winnicki-jump.png",
+	"format": "RGBA8888",
+	"size": {"w":822,"h":889},
+	"scale": "1"
+}
+}
